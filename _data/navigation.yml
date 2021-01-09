@@ -1,6 +1,6 @@
 main:
-  - title: "メンバー"
-    url: /members/
+  #- title: "メンバー"
+  #  url: /members/
   - title: "学生の研究"
     url: /students-research/
   - title: "Posts"
