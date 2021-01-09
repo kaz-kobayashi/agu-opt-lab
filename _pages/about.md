@@ -12,4 +12,4 @@ title: "About"
 
 准教授 [小林和博](http://kaz-kobayashi.github.io/)
 
-助教 高澤陽太朗
+助教 [高澤陽太朗](https://takazawa.github.io/)
