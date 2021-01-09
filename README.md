@@ -8,4 +8,4 @@ author_profile: true
 
 このページでは，学生の研究プロジェクトと講義に関する内容を述べています．
 
-README.md
+----
