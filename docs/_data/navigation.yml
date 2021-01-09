@@ -1,0 +1,13 @@
+main:
+  - title: "メンバー"
+    url: /members/
+  - title: "学生の研究"
+    url: /students-research/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
